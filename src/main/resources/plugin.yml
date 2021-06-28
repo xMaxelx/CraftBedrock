@@ -1,0 +1,6 @@
+name: CraftBredrock
+version: ${project.version}
+main: de.max.craft.bedrock.Craftbedrock
+api-version: 1.17
+authors: [ xMaxelx ]
+description: Das ist ein Plugin wo du Bedrock Craften kannst!
